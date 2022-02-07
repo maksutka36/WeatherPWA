@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "weatherapp-fd31f": {
+      "hosting": {
+        "WeatherApp": [
+          "weatherapp-fd31f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "weatherapp-fd31f"
+  }
+}
